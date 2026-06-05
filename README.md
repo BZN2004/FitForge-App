@@ -85,4 +85,3 @@ How to code using C# with this project🦇.
 
 Developed in a PRG182 Group Project (2025).
 
-Team effort, but plenty of learning, debugging, and “why the heck won’t it compile?!” moments.
